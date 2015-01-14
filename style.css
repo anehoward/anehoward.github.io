@@ -1,4 +1,10 @@
-body { background-color:black; 
-color: white;}
-h1{border-bottom:2px green solid;}
-
+body {
+  background-color:black; 
+  color: white;
+  font-size:20px;
+}
+h1 {
+  border-bottom:2px green solid;
+  font-size:2em;
+  width:200px;
+}

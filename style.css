@@ -1,4 +1,9 @@
-body { background-color:black; 
-color: white;}
-h1{border-bottom:2px green solid;}
+body {
+  background-color:black; 
+  color: white;
+}
+h1 {
+  border-bottom:2px green solid;
+  width:200px;
+}
 

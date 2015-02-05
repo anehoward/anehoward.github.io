@@ -1,7 +1,9 @@
-<<<<<<< HEAD
+
 body { background-color:black; 
 color: white;}
 h1{border-bottom:2px green solid;}
+#slogan
+
 =======
 body {
   background-color:black; 
@@ -13,4 +15,3 @@ h1 {
   font-size:2em;
   width:350px;
 }
->>>>>>> FETCH_HEAD

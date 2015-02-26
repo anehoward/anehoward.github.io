@@ -4,7 +4,7 @@ body {
   font-size:18px;
   
 }
-h1, h2, h3,{
+h1,{
   font-family: 'Roboto', sans-serif;font-weight: 400; }
   border-bottom:2px green solid;
 }
